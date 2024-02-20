@@ -8,4 +8,6 @@ The Age Calculator is a simple web application designed to help users calculate 
 <h2>Technologies Used</h2>
 HTML: The structure of the web page is built using HTML, providing the foundation for the user interface.<br>
 CSS: CSS is used for styling the application, enhancing its visual appeal and usability.<br>
-JavaScript: The age calculation logic is implemented using JavaScript, providing dynamic functionality to the application.
+JavaScript: The age calculation logic is implemented using JavaScript, providing dynamic functionality to the application.<br>
+<h3>Contributors</h3> <br>
+Project Developer-Keshav Mishra
