@@ -6,6 +6,6 @@ The Age Calculator is a simple web application designed to help users calculate 
 <h2>Accurate Calculation:</h2> The age is calculated precisely, taking into account leap years and differences in month lengths.
 <h2>Instant Results: </h2>Users receive instant feedback upon entering their birthdate, allowing them to quickly see how old they are in terms of years, months, and days.
 <h2>Technologies Used</h2>
-HTML: The structure of the web page is built using HTML, providing the foundation for the user interface.
-CSS: CSS is used for styling the application, enhancing its visual appeal and usability.
+HTML: The structure of the web page is built using HTML, providing the foundation for the user interface.<br>
+CSS: CSS is used for styling the application, enhancing its visual appeal and usability.<br>
 JavaScript: The age calculation logic is implemented using JavaScript, providing dynamic functionality to the application.
